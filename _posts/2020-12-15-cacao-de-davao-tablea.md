@@ -3,18 +3,22 @@ layout: post
 title: Cacao de Davao Tablea
 ---
 
+Somewhat "chalky", not quite refined.
+
+<!--excerpt-->
+
 Summary
 -------
 
-* Unit: 1 bar
-* Price:
-* Where: 
+* Unit: 1 bag (100 g)
+* Price: ₱180.00
+* Where: [Cacao de Davao](https://cacaodedavao.business.site)
 
 Score
 -----
 - Sweetness: 2
 - Thickness: 2
-- Overall: 2
+- Overall: 1.5
 
 Prep
 ----
@@ -25,4 +29,4 @@ Prep
 Notes
 -----
 - A little bit chalky
-- Didn't really like it
+- Not a fan :( 

@@ -7,7 +7,7 @@ text_skin: default
 highlight_theme: default
 url     : "https://lets-drink.genux.org"
 baseurl : "/"
-title   : Let's Drink Hot Chocolate…
+title   : Let's Drink… Hot Chocolate!
 description: >
   Finding that perfect cup of drinking chocolate, one sip at a time.
 
@@ -16,45 +16,17 @@ description: >
 lang: en
 timezone: Etc/UTC
 
-## => Author and Social
-##############################
-author:
-  type      : person
-  name      : Gino Ledesma
-  url       : 
-  avatar    : # path or url of avatar image (square)
-  bio       : How does this work?
-  email     : gledesma@gmail.com
-  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
-  weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
-  googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
-  telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
-  medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
-  zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
-  douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : ginoledesma
-  npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
 repository: ginoledesma/lets-learn
 repository_tree: gh-pages
 
-## => Paths
-##############################
-paths:
-  root    : # title link url, "/" (default)
-  home    : # home layout url, "/" (default)
-  archive : # "/archive.html" (default)
-  rss     : # "/feed.xml" (default)
-
 
 ## => Post
 ##############################
 ## excerpt
-excerpt_separator: <!--more-->
+excerpt_separator: <!--excerpt-->
 
 ## license
 license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
@@ -210,3 +182,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-toc
   - jemoji
+
+
+## => List of links
+navbar-links:
+  About: "about"
+  Score Card: "/legend.html"

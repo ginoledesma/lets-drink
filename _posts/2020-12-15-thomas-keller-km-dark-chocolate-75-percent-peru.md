@@ -3,11 +3,15 @@ layout: post
 title: K+M Extra Virgin Dark Chocolate 75% Cocoa Peru
 ---
 
+Strong, bitter notes. 
+
+<!--excerpt-->
+
 Summary
 -------
 ![K+M Extra Virgin Dark Chocolate 75% Cocoa Peru](/images/k+m-dark-75-peru.jpg)
 
-* Unit: 1 bar, 70g
+* Unit: 1 bar (2.46 oz, 70g)
 * Price: $14.95
 * Where: [Whole Foods Market](https://www.wholefoodsmarket.com/)
 
@@ -26,5 +30,5 @@ Prep
 
 Notes
 -----
-- Bitter-sweet, milky consistency
-- Probably needs more chocolate (50g?)
+- If sweetening, add only a little bit. Otherwise it clashes with the strong bitter-notes (can be off-puting)
+- A thicker, less-milky consistency needs to have about 45-50g

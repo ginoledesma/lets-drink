@@ -3,13 +3,14 @@ layout: post
 title: Hotel Chocolat Dark 85%
 ---
 
-A nice, "grown-up", post-dessert treat thats especially great in colder weather.
+A "grown-up", post-dessert treat thats especially great in colder weather.
+
+<!--excerpt--> 
 
 Summary
 -------
 
-![packet of dark chocolate](/images/hot-chocolat-dark-85-2.jpg)
-![packet of dark chocolate](/images/hot-chocolat-dark-85.jpg)
+<img src="/images/hotel-chocolat-dark-85-2.jpg" width="60%" height="60%" />
 
 
 * Unit: 10 single-serve packets

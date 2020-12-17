@@ -1,13 +1,12 @@
 ---
-layout: post
-title: Gino's Hot Chocolate Score Card
+title: Hot Chocolate Score Card
 ---
 
 Sweetness
 ---------
 * 1: Barely a hint; might turn off people with a sweet-tooth
 * 2: Semi-sweet, but not bitter
-* 3: "just right", even kids would like this
+* 3: "*just right*", even kids would like this
 * 4: a tad too sweet
 * 5: diabetes-inducing (syrup / caramelized sugar)
 
@@ -26,7 +25,7 @@ Overall
 * 2: It's okay… about comfort-food level
 * 3: Yummy! Worth making the extra time and effort at home, or spending extra for that in a store
 * 4: Another cup, please?
-* 5: Break-the-bank or Go-out-of-my-way worthy
+* 5: Break-the-bank or *Go-out-of-my-way* worthy
 
 Prep
 ----

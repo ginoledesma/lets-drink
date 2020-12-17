@@ -3,11 +3,15 @@ layout: post
 title: Callebaut Hazelnut
 ---
 
+Sweet, Hazelnut-flavored cup of hot chocolate.
+
+<!--excerpt-->
+
 Summary
 -------
 
-![Callebaut Hazelnut](/images/callebaut-hazelnut-1.jpg)
-![Callebaut Hazelnut](/images/callebaut-hazelnut-2.jpg)
+<img src="/images/callebaut-hazelnut-1.jpg" width="50%" height="50%"/>
+<img src="/images/callebaut-hazelnut-2.jpg" width="50%" height="50%"/>
 
 * Unit: 1 bar
 * Price:
@@ -29,4 +33,4 @@ Prep
 Notes
 -----
 - Strong hazelnut flavor
-- Very milky
+- Very milky consistency

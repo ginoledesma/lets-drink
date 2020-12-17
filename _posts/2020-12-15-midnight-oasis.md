@@ -3,6 +3,10 @@ layout: post
 title: Chocolat Moderne - Midnight Oasis
 ---
 
+A silky, smooth, not-too-thick, easy-to-drink treat.
+
+<!--excerpt-->
+
 Summary
 -------
 
@@ -29,4 +33,4 @@ Notes
 -----
 - Nice dark color, smooth, easy to drink
 - Only hints of its bitterness 
-- This could be better if it were less sweet
+- This could be better if it were less sweet; increasing the amount of mixture also raises the sweetness

@@ -3,10 +3,14 @@ layout: post
 title: Valrhona Jivara Milk Chocolate
 ---
 
+A sweet and creamy drink that's closer to a traditional cup of hot cocoa.
+
+<!--excerpt-->
+
 Summary
 -------
 
-![valrhona jivara milk chocolate](/images/valrhona-jivara-3.jpg)
+<img src="/images/valrhona-jivara-3.jpg" width="50%" height="50%" alt="valrhona jivara milk chocolate" />
 
 * Unit: 1 bar, 1 lb (453.59 g)
 * Price: $14.99
