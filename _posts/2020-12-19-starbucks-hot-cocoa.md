@@ -10,7 +10,7 @@ Sweet, but overall bland.
 Summary
 -------
 
-![Starbucks Hot Cocoa](/images/starbucks-hot-cocoa.jpg)
+![Starbucks Hot Cocoa](/images/starbucks-hot-cocoa-mix.jpg)
 
 * Unit: 1 can (200 g)
 
