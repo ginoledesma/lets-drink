@@ -12,7 +12,9 @@ Summary
 
 ![Starbucks Hot Cocoa](/images/starbucks-hot-cocoa-mix.jpg)
 
-* Unit: 1 can (200 g)
+* Unit: 1 can (1 lb 14 oz, 850 g)
+* Price: $32.99 at Costco for 2 cans
+* Where: [Costco](https://www.costco.com/Starbucks-Classic-Hot-Cocoa-Mix-30-oz,-2-pack.product.100071096.html)
 
 Score
 -----
