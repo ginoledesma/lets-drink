@@ -3,7 +3,7 @@ layout: post
 title: Starbucks Hot Cocoa Mix
 ---
 
-Sweet, but overall bland.
+Sweet, but overall bland. Par for the course for your typical hot cocoa.
 
 <!--excerpt-->
 
