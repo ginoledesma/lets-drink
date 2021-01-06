@@ -8,6 +8,7 @@
 *.swo
 *.log
 *.log.*
+.ruby-version
 
 /.vscode/
 
